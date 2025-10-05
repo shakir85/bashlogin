@@ -1,0 +1,28 @@
+.DS_Store
+
+# IDEs/Text Editors
+.idea/
+.vscode/
+
+# Crash log files
+crash.log
+crash.*.log
+
+# misc
+*.cer
+*.crt
+*.key
+*.pem
+.venv/
+key.yml
+**/.DS_Store
+
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+
